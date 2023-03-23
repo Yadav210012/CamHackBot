@@ -9,11 +9,11 @@
 
 </div>
 
-This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a telegram implementation with extra features than Psi.
+This tool is based upon [Psi](https://github.com/Yadav210012/CamHackBot) .This is a telegram implementation with extra features than Psi.
 ### Try it at [@Camera_hack_Robot](https://t.me/Camera_hack_Robot)
 
 
-[![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/Th30neAnd0nly/TrackDown)
+[![Run on Repl.it](https://repl.it/badge/github/Yadav210012/CamHackBot)](https://repl.it/github/Yadav210012/CamHackBot)
  
 #### Video Tutorial 
 
